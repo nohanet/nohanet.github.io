@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 'first_name' => $first_name,
                 'last_name' => $last_name
             ];
-            header("Location: dashboard.php");
+            header("Location: dashboard.html");
             exit();
         }
     }

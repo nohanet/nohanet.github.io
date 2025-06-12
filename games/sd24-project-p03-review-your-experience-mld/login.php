@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             'last_name' => $user['last_name'],
             'role' => $user['role']
         ];
-        header("Location: dashboard.php");
+        header("Location: dashboard.html");
         exit();
     } else {
         $errors[] = "Verkeerde inloggegevens.";
