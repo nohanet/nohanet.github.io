@@ -13,7 +13,7 @@
   </header>
   <nav>
     <a href="contact.php">Contact</a>
-    <a href="index.php">Home</a>
+    <a href="index.html">Home</a>
     <a href="#">projecten</a>
     <a href="over-mij.php">over-mij</a>
   </nav>
