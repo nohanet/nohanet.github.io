@@ -1,0 +1,78 @@
+*{
+  color:red;
+}
+.dobbelstenen {
+  color: rgb(255, 183, 0);
+  column-count: 2
+  ;
+  column-fill: balance;
+}
+
+.bg-red {
+  background: red;
+  border: 5px solid black;
+}
+
+.bg-green {
+  background: rgb(116, 131, 197);
+  border: 5px solid black;
+}
+
+.dices, .headings, .credits, .controls {
+  padding: 10px;
+  column-count: 7;
+  column-fill: balance;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.dices-computer-player, .dices-player {
+  column-count: 2;
+}
+
+.message {
+  column-count: 3;
+}
+
+.message-box {
+  background-image: url(img/iuj.gif);
+  border: 1px solid black;
+  color: burlywood;
+}
+
+.dice {
+  font-size: 64pt;
+}
+
+button {
+  width: 100%;
+}
+
+.lager, .hoger, .gaan, .gooien {
+  width: 20%;
+  padding: 6px;
+  border: 1px solid black;
+}
+.gooien{
+  background-image: url(img/jyf.gif);
+}
+.gaan{
+ background-image: url(img/uyjh.webp);
+}
+
+.lager {
+  background-image: url(img/yugkh.gif);
+  color: red;
+}
+
+.hoger {
+  background-image: url(img/tdg.gif);
+  color: green;
+}
+
+body {
+  background-image: url(img/p.jpeg);
+  background-size: cover;
+}

@@ -26,8 +26,23 @@
 <main class="container text-center my-5">
     <h1 class="fw-bold">Hallo mijn naam is Mohammed Ajjouch<br>en dit is mijn website</h1>
 </main>
+<div class="container my-5">
+    <div class="d-flex justify-content-center">
+        <form action="https://www.paypal.com/donate" method="post" target="_blank">
+            <input type="hidden" name="business" value="anyavdmee@gmail.com" />
+            <input type="hidden" name="amount" value="20.00" />
+            <input type="hidden" name="item_name" value="Support ons project" />
+            <input type="hidden" name="currency_code" value="EUR" />
 
 
+            <button type="submit" class="btn btn-primary btn-lg d-flex align-items-center gap-2 px-4 py-2">
+                <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg"
+                     alt="PayPal" style="height: 30px;">
+                Doneren €20,00 via PayPal
+            </button>
+        </form>
+    </div>
+</div>
 <footer class="bg-dark text-light text-center py-3 border border-black fixed-bottom">
     Gemaakt door Mohammed Ajjouch &copy;
 </footer>
