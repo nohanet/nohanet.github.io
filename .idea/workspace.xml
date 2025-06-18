@@ -5,104 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e69acbe-970e-4e2c-ba22-6b1ea8eb670f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/projecten.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/about-us.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/css/contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/css/music.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/css/world.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/dashboard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/MLD-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/T_ShiR.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/afbeelding (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/afbeelding (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/afbeelding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/checkmark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/error symbol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/logos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/profile2-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/spotify.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/tiktok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/world6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/img/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/includes/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/includes/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/logout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/modules/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/modules/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/World 2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/World 3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/World 4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/World 6.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/world 1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/mp3/world 5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/music.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/profiel.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/regristreren.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/review.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/views/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/views/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/wachtwoord-vergeten.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/world.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/sd24-project-p03-review-your-experience-mld/worlds.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/css/mo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__10_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__11_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__12_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__14_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__4_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__5_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__6_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__7_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__8_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/Untitled_design__9_-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/eng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/file (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/file (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/kw-removebg-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/molehole.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/molesnack.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/moloinbesthole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/smallermole.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/smallmole.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/img/telletubbieszon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/js/mo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/mo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/mo2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/mo3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/wack the mole/mo4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/eende screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ik.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mld screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mole wacker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/over-mij.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecten.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/over-mij.html" beforeDir="false" afterPath="$PROJECT_DIR$/over-mij.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3.html" beforeDir="false" afterPath="$PROJECT_DIR$/project3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projecten.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -133,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -148,6 +60,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nohanet.github.io" />
       <recent name="C:\xampp\htdocs\portfolio\img" />
       <recent name="C:\xampp\htdocs\portfolio\games" />
     </key>
@@ -184,6 +97,7 @@
       <workItem from="1749730857034" duration="72000" />
       <workItem from="1750079141778" duration="3802000" />
       <workItem from="1750095033825" duration="1965000" />
+      <workItem from="1750229790044" duration="1383000" />
     </task>
     <servers />
   </component>
