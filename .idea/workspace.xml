@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e69acbe-970e-4e2c-ba22-6b1ea8eb670f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta.html" beforeDir="false" afterPath="$PROJECT_DIR$/beta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/dobel.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/dobel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/html-css kennis.code-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/html-css kennis.code-workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/iuj.gif" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/iuj.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/jyf.gif" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/jyf.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/p.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/p.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/tdg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/tdg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/uyjh.webp" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/uyjh.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/img/yugkh.gif" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/img/yugkh.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/hoger lager/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/games/hogerlager/styl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/eende screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/eendescreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mld screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mldscreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/over-mij.html" beforeDir="false" afterPath="$PROJECT_DIR$/over-mij.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project3.html" beforeDir="false" afterPath="$PROJECT_DIR$/project3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4.html" beforeDir="false" afterPath="$PROJECT_DIR$/project4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projecten.html" beforeDir="false" afterPath="$PROJECT_DIR$/projecten.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +114,7 @@
       <workItem from="1750229790044" duration="1383000" />
       <workItem from="1750231514952" duration="205000" />
       <workItem from="1750247365172" duration="2004000" />
-      <workItem from="1750327472809" duration="704000" />
+      <workItem from="1750327472809" duration="2471000" />
     </task>
     <servers />
   </component>
