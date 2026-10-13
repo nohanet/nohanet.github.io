@@ -1,77 +1,289 @@
+
 <!doctype html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Wack a Mole | Mohammed</title>
+    <meta name="description" content="Bekijk Hoger Lager, het eerste programmeerproject van Mohammed Ajjouch, gemaakt met HTML, CSS en JavaScript.">
+    <title>Hoger Lager | Mohammed Ajjouch</title>
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <style>
+        body {
+            background: #f1f5f9;
+            color: #1e293b;
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            background: #0f172a;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #0f172a, #ea580c);
+            color: white;
+            padding: 75px 20px;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.2rem, 5vw, 3.5rem);
+            font-weight: 800;
+        }
+
+        .project-card {
+            background: white;
+            border: none;
+            border-radius: 18px;
+            box-shadow: 0 8px 30px rgba(15, 23, 42, .08);
+            overflow: hidden;
+        }
+
+        .project-image {
+            width: 100%;
+            max-height: 380px;
+            object-fit: contain;
+            background: #fff7ed;
+            padding: 20px;
+        }
+
+        .btn-project {
+            background: #ea580c;
+            color: white;
+            border-radius: 9px;
+            padding: 12px 20px;
+            font-weight: 600;
+        }
+
+        .btn-project:hover {
+            background: #c2410c;
+            color: white;
+        }
+
+        .tech-badge {
+            display: inline-block;
+            background: #ffedd5;
+            color: #c2410c;
+            padding: 8px 13px;
+            border-radius: 30px;
+            margin: 4px;
+            font-weight: 600;
+            font-size: .9rem;
+        }
+
+        footer {
+            background: #0f172a;
+            color: #cbd5e1;
+        }
+    </style>
 </head>
-<body class="bg-success-subtle">
 
+<body>
 
-<header class="bg-dark text-light text-center py-4 border border-black">
-    <h1 class="h4 m-0">Website van Mohammed Ajjouch</h1>
-</header>
+<!-- NAVIGATIE -->
+<nav class="navbar navbar-dark navbar-expand-lg">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <i class="bi bi-code-slash me-2"></i>Mohammed Ajjouch
+        </a>
 
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#mainNavbar"
+                aria-controls="mainNavbar"
+                aria-expanded="false"
+                aria-label="Navigatie openen">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-<nav class="bg-primary d-flex justify-content-evenly border-start border-end border-bottom border-black py-2">
-
-    <a href="index.html" class="text-decoration-none text-dark fw-semibold px-2">Home</a>
-    <a href="#" class="text-decoration-none text-dark fw-semibold px-2">Projecten</a>
-    <a href="over-mij.html" class="text-decoration-none text-dark fw-semibold px-2">Over mij</a>
-    <a href="career.html" class="text-decoration-none text-dark fw-semibold px-2">cariëre</a>
-    <a href="contact.html" class="text-decoration-none text-dark fw-semibold px-2">Contact</a>
+        <div class="collapse navbar-collapse" id="mainNavbar">
+            <div class="navbar-nav ms-auto">
+                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.html#projecten">Projecten</a>
+                <a class="nav-link" href="index.html#over-mij">Over mij</a>
+                <a class="nav-link" href="index.html#carriere">Carrière</a>
+                <a class="nav-link" href="index.html#contact">Contact</a>
+            </div>
+        </div>
+    </div>
 </nav>
 
+<!-- HERO -->
+<header class="hero">
+    <div class="container">
+        <span class="badge text-bg-light mb-3"
+              style="color: #ea580c;">
+            Mijn eerste project
+        </span>
 
-<main class="container my-5">
-    <div class="row g-4 justify-content-center">
+        <h1>Hoger Lager</h1>
 
+        <p class="lead mt-3 mb-4">
+            Mijn eerste schoolproject: een interactieve game
+            gemaakt met HTML, CSS en JavaScript.
+        </p>
 
-        <div class="col-12 col-md-4">
-            <div class="card bg-success text-white text-center shadow h-100">
-                <div class="card-body d-flex flex-column justify-content-center">
-                    <h5 class="card-title mb-3">Hoger lager</h5>
-                    <a href="https://github.com/nohanet/Hoger-lager-reborn.git" class="btn btn-light mt-auto">Bezoek site</a>
-                    <a href="games/hogerlager/dobel.html" class="btn btn-light mt-auto">of speel nu</a>
-                </div>
-            </div>
-        </div>
+        <a href="games/hogerlager/dobel.html"
+           class="btn btn-light btn-lg me-2 mb-2">
+            <i class="bi bi-controller me-2"></i>Speel de game
+        </a>
 
+        <a href="https://github.com/nohanet/Hoger-lager-reborn.git"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="btn btn-outline-light btn-lg mb-2">
+            <i class="bi bi-github me-2"></i>Bekijk op GitHub
+        </a>
+    </div>
+</header>
 
-        <div class="col-12 col-md-4">
-            <div class="card bg-success text-white text-center shadow h-100">
-                <div class="card-body">
-                    <h5 class="card-title">Project 1</h5>
-                    <a href="projecten.html">
-                        <img src="img/hoger_lager_screen.png" alt="Wack a Mole" class="img-fluid rounded mt-3">
-                    </a>
-                </div>
-            </div>
-        </div>
+<!-- PROJECTINHOUD -->
+<main class="container py-5">
 
+    <div class="row g-4">
 
-        <div class="col-12 col-md-8">
-            <div class="card bg-light text-dark shadow">
-                <div class="card-body">
-                    <h5 class="card-title">Beschrijving</h5>
-                    <p class="card-text">
-                        <strong>Hoger Lager</strong>Hoger Lager is mijn eerste project dat ik moest maken in deze school.
-                        Ik heb hier heel hard aan gewerkt maar er zijn niet heel veel dingen in omdat ik toen
-                        nog niet bekend was. voor dit project is javascript,HTML en CSS gebruikt.<em></em>.
+        <!-- BESCHRIJVING -->
+        <div class="col-12 col-lg-7">
+            <section class="project-card h-100">
+                <div class="p-4 p-md-5">
+
+                    <h2 class="h3 fw-bold mb-3">
+                        Over het project
+                    </h2>
+
+                    <p>
+                        <strong>Hoger Lager</strong> was mijn eerste
+                        programmeerproject tijdens mijn opleiding
+                        Software Developer aan ROC Mondriaan.
                     </p>
+
+                    <p>
+                        Het doel was om een interactieve game te maken
+                        waarin de speler moet raden of de volgende
+                        waarde hoger of lager is.
+                    </p>
+
+                    <p>
+                        Toen ik aan dit project begon, had ik nog
+                        weinig programmeerervaring. Daarom was
+                        het een goede uitdaging om zelf een
+                        werkende game te bouwen.
+                    </p>
+
+                    <p>
+                        Voor dit project heb ik
+                        <strong>HTML, CSS en JavaScript</strong>
+                        gebruikt. Ik heb geleerd hoe ik een
+                        webpagina kan opbouwen, vormgeven en
+                        interactief kan maken met JavaScript.
+                    </p>
+
+                    <p class="mb-0">
+                        Hoewel dit een relatief eenvoudig project is,
+                        laat het goed zien waar ik ben begonnen
+                        en hoeveel ik sindsdien ben gegroeid
+                        als softwareontwikkelaar.
+                    </p>
+
+                    <hr class="my-4">
+
+                    <h3 class="h5 fw-bold mb-3">
+                        Gebruikte technologieën
+                    </h3>
+
+                    <span class="tech-badge">HTML</span>
+                    <span class="tech-badge">CSS</span>
+                    <span class="tech-badge">JavaScript</span>
+
                 </div>
-            </div>
+            </section>
+        </div>
+
+        <!-- SCREENSHOT EN PROJECTINFO -->
+        <div class="col-12 col-lg-5">
+            <section class="project-card h-100">
+
+                <img src="img/hoger_lager_screen.png"
+                     alt="Screenshot van de Hoger Lager-game"
+                     class="project-image">
+
+                <div class="p-4">
+
+                    <h2 class="h4 fw-bold">
+                        Projectinformatie
+                    </h2>
+
+                    <div class="d-flex justify-content-between py-2 border-bottom">
+                        <span class="text-secondary">Type</span>
+                        <strong>Schoolproject</strong>
+                    </div>
+
+                    <div class="d-flex justify-content-between py-2 border-bottom">
+                        <span class="text-secondary">Volgorde</span>
+                        <strong>Eerste project</strong>
+                    </div>
+
+                    <div class="d-flex justify-content-between py-2 border-bottom">
+                        <span class="text-secondary">Categorie</span>
+                        <strong>Browsergame</strong>
+                    </div>
+
+                    <div class="d-flex justify-content-between py-2 border-bottom">
+                        <span class="text-secondary">Technologie</span>
+                        <strong>JavaScript</strong>
+                    </div>
+
+                    <div class="d-flex justify-content-between py-2">
+                        <span class="text-secondary">Status</span>
+                        <strong>Speelbaar</strong>
+                    </div>
+
+                    <a href="games/hogerlager/dobel.html"
+                       class="btn btn-project w-100 mt-3">
+                        <i class="bi bi-play-fill me-2"></i>
+                        Speel Hoger Lager
+                    </a>
+
+                    <a href="https://github.com/nohanet/Hoger-lager-reborn.git"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       class="btn btn-outline-dark w-100 mt-2">
+                        <i class="bi bi-github me-2"></i>
+                        Bekijk de broncode
+                    </a>
+
+                </div>
+            </section>
         </div>
 
     </div>
+
+    <!-- TERUG -->
+    <div class="text-center mt-5">
+        <a href="index.html#projecten"
+           class="btn btn-outline-dark btn-lg">
+            <i class="bi bi-arrow-left me-2"></i>
+            Terug naar mijn projecten
+        </a>
+    </div>
+
 </main>
 
-
-<footer class="bg-dark text-light text-center py-3 border border-black fixed-bottom">
-    Gemaakt door Mohammed Ajjouch &copy;
+<!-- FOOTER -->
+<footer class="text-center py-4 mt-4">
+    <p class="mb-1">
+        Gemaakt door Mohammed Ajjouch &copy; 2026
+    </p>
+    <small>Software Developer | ROC Mondriaan</small>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
